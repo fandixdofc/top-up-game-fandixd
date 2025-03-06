@@ -1,11 +1,10 @@
 #include <iostream>
 
 /**
-    Author : @zoelabbb
+    Author : @fandi.xd
     Tools : Pembayaran Travel Agent
     Version : V.0.1 --> Using nested if
-    Telegram : https://t.me/domicadoesca
-    Find My Repository  : https://github.com/zoelabbb?tab=repositories
+    instagram : https://instagram.com/fandi.xd
 **/
 
 using namespace std;
